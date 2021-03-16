@@ -68,5 +68,5 @@ def sign_up():
                 login_user(user, remember=True)
                 flash("Account created", category="success")
             # safer route
-            return redirect(url_for('views.home', user=current_user))
-    return render_template("sign_up.html")
+                return redirect(url_for('views.home'))
+    return render_template("sign_up.html", user=current_user)
