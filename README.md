@@ -2,4 +2,4 @@
 Noted is an app made with flask .
 
 
-pipreq for requirements.txt
+Install all dependencies using the command: ```pip install -r requirements.txt```
