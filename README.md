@@ -1,5 +1,6 @@
 # Noted - A note taking app
-Noted is an app made with flask .
+Noted is an app made with flask.
 
 
-Install all dependencies using the command: ```pip install -r requirements.txt```
+Install all dependencies using the requirements.txt.
+Use the following command to install : ```pip install -r requirements.txt```
